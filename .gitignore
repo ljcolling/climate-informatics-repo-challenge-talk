@@ -1,0 +1,11 @@
+Makefile
+_content.qmd
+apa.csl
+badges_chart.original.png
+badges_stacked.original.png
+index.qmd
+individual_table.RDS
+refs.bib
+summary.RDS
+theme.scss
+.DS_Store
